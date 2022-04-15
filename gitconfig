@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jeanphilippe.agt@gmail.com
+	name = Jean Philippe Auguste
